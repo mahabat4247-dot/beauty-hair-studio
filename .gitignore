@@ -1,15 +1,3 @@
-# OS files
-.DS_Store
-Thumbs.db
-
-# Editor files
-.vscode/
-.idea/
-*.swp
-
-# Env / secrets
-.env
-.env.*
-
-# Logs
-*.log
+.scannerwork/
+node_modules/
+dist/
